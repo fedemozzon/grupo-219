@@ -1,3 +1,4 @@
 - Rosmery Torres
 - Christian Ledesma
 - Uciel Daró
+- Oscar Góngora
