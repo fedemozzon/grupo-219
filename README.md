@@ -1,3 +1,4 @@
+- Nadia Kratochvil
 - Rosmery Torres
 - Christian Ledesma
 - Uciel Daró
