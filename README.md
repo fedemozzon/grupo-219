@@ -1,4 +1,4 @@
 - Rosmery Torres
 - Christian Ledesma
 - Uciel Daró
--Merlina Brest
+- Merlina Brest
