@@ -1,7 +1,7 @@
 {
   "name": "server",
   "version": "0.0.1",
-  "description": "Es un servidor de prueba pensado para que puedan testear algunas cosas de su proyeto Angular, estan limitados a los nombres y objetos que yo defini. Cuando realizen su servidor, podran adaptarlo segun sus necesidades",
+  "description": "Es un servidor de prueba pensado para que puedan testear algunas cosas de su proyeto Angular, estan limitados a los nombres y objetos que yo defini. Cuando realicen su servidor, podran adaptarlo segun sus necesidades",
   "keywords": [
     "loopback-application",
     "loopback"
