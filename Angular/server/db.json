@@ -1,0 +1,14 @@
+{
+  "ids": {
+    "Usuario": 2,
+    "Experiencia": 2
+  },
+  "models": {
+    "Usuario": {
+      "1": "{\"nombre\":\"Federico Mozzon\",\"tituloDeDesarrollador\":\"full stack jr\",\"descripcion\":\"re malo programando\",\"idUsuario\":1}"
+    },
+    "Experiencia": {
+      "1": "{\"titulo\":\"Trabaje en google\",\"fechaInicio\":\"2022-04-08T22:44:33.503Z\",\"fechaFin\":\"2022-04-08T22:44:33.503Z\",\"descripcionActividades\":\"programe mucho\",\"idUsuario\":0,\"idExperiencia\":1}"
+    }
+  }
+}
