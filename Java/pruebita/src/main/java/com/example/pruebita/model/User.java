@@ -1,9 +1,6 @@
 package com.example.pruebita.model;
 
-import javax.persistence.Column;
-import javax.persistence.Entity;
-import javax.persistence.Id;
-import javax.persistence.Table;
+import javax.persistence.*;
 
 //La anotación @Entity le hace saber a Spring que esta clase se convierta en una tabla en la BD
 //@Id para poder identificar cada objeto
@@ -12,6 +9,7 @@ import javax.persistence.Table;
 @Table(name = "user")
 public class User {
     @Id
+    @GeneratedValue(strategy = GenerationType.AUTO)
     @Column(name = "id_user", nullable = false)
     private Long idUser;
 
@@ -26,7 +24,7 @@ public class User {
     @Column(name = "password_user")
     private String passwordUser;
 
-    @Column(name = "mail_user")
+    @Column(name = "mailUser")
     private String mailUser;
 
     public String getPasswordUser() {
